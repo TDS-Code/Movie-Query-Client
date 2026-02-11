@@ -1,0 +1,11 @@
+# moveID "Title" year "Genres" ImdbID Rating #Raters
+193587 "Bungo Stray Dogs: Dead Apple" 2018 "Action|Animation" 8391976 3.5 1
+193583 "No Game No Life: Zero" 2017 "Animation|Comedy|Fantasy" 5914996 3.5 1
+193581 "Black Butler: Book of the Atlantic" 2017 "Action|Animation|Comedy|Fantasy" 5476944 4 1
+193579 "Jon Stewart Has Left the Building" 2015 "Documentary" 5342766 3.5 1
+193573 "Love Live! The School Idol Movie" 2015 "Animation" 3837248 4 1
+193571 "Silver Spoon" 2014 "Comedy|Drama" 3110014 4 1
+190215 "Liquid Truth" 2017 "Drama" 7293380 1.5 1
+190207 "Tilt" 2011 "Drama|Romance" 1680019 1.5 1
+190183 "The Darkest Minds" 2018 "Sci-Fi|Thriller" 4073790 3.5 1
+189547 "Iron Soldier" 2010 "Action|Sci-Fi" 1665744 1 1
